@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-nyc",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f306f168-9836-4544-b219-aedf5045c0fe",
+		"tenantId": "c72a2f65-a625-4258-a927-18c423f785fd"
+	}
+}
